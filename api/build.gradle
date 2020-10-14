@@ -9,13 +9,14 @@ repositories {
 
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.11'
+    implementation platform("org.springframework.boot:spring-boot-dependencies:2.3.2.RELEASE")
+    implementation("org.springframework.boot:spring-boot-starter-web")
+    implementation("org.springframework.boot:spring-boot-starter")
 }
 
 buildscript {
     repositories {
-        maven {
-            url "https://plugins.gradle.org/m2/"
-        }
+        mavenCentral()
     }
     dependencies {
         classpath "org.springframework.boot:spring-boot-gradle-plugin:2.3.4.RELEASE"
@@ -23,3 +24,8 @@ buildscript {
 }
 
 apply plugin: "org.springframework.boot"
+
+springBoot {
+    mainClassName = 'com.api.db.e2e.apiApplication'
+}
+
