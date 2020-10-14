@@ -1,0 +1,4 @@
+com/api/db/e2e/api/restApi.java
+ com.api.db.e2e.api.restApi
+com/api/db/e2e/apiApplication.java
+ com.api.db.e2e.apiApplication

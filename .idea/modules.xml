@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/api/api.iml" filepath="$PROJECT_DIR$/api/api.iml" />
       <module fileurl="file://$PROJECT_DIR$/api-db-e2e.iml" filepath="$PROJECT_DIR$/api-db-e2e.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/api-db-e2e.api.iml" filepath="$PROJECT_DIR$/.idea/modules/api/api-db-e2e.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/api-db-e2e.api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api/api-db-e2e.api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/api-db-e2e.api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/api/api-db-e2e.api.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-db-e2e.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api-db-e2e.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-db-e2e.test.iml" filepath="$PROJECT_DIR$/.idea/modules/api-db-e2e.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qa/qa.iml" filepath="$PROJECT_DIR$/qa/qa.iml" />
     </modules>
   </component>
 </project>

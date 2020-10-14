@@ -1,2 +1,4 @@
 rootProject.name = 'api-db-e2e'
 
+include 'api'
+
