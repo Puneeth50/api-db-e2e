@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/api-db-e2e.api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api/api-db-e2e.api.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/api-db-e2e.api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/api/api-db-e2e.api.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-db-e2e.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api-db-e2e.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/qa/api-db-e2e.qa.iml" filepath="$PROJECT_DIR$/.idea/modules/qa/api-db-e2e.qa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/qa/api-db-e2e.qa.main.iml" filepath="$PROJECT_DIR$/.idea/modules/qa/api-db-e2e.qa.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/qa/api-db-e2e.qa.test.iml" filepath="$PROJECT_DIR$/.idea/modules/qa/api-db-e2e.qa.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-db-e2e.test.iml" filepath="$PROJECT_DIR$/.idea/modules/api-db-e2e.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/qa/qa.iml" filepath="$PROJECT_DIR$/qa/qa.iml" />
     </modules>

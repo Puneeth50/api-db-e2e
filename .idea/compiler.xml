@@ -11,12 +11,26 @@
       <entry name="!?*.kt" />
       <entry name="!?*.clj" />
     </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.14/bdc3e8dee0b300d3fd9414678fb9ddb42d5e20fb/lombok-1.18.14.jar" />
+        </processorPath>
+        <module name="api-db-e2e.api.test" />
+        <module name="api-db-e2e.api.main" />
+      </profile>
+    </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="api-db-e2e" target="1.5" />
       <module name="api-db-e2e.api" target="1.8" />
       <module name="api-db-e2e.api.main" target="1.8" />
       <module name="api-db-e2e.api.test" target="1.8" />
       <module name="api-db-e2e.main" target="1.5" />
+      <module name="api-db-e2e.qa" target="1.5" />
+      <module name="api-db-e2e.qa.main" target="1.5" />
+      <module name="api-db-e2e.qa.test" target="1.5" />
       <module name="api-db-e2e.test" target="1.5" />
     </bytecodeTargetLevel>
   </component>

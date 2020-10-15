@@ -1,4 +1,27 @@
 package com.api.db.e2e.model;
 
-public class Persons {
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+import javax.persistence.*;
+import java.io.Serializable;
+
+@Data
+@Entity
+@NoArgsConstructor
+@AllArgsConstructor
+@Table(name = "persons")
+public class Persons implements Serializable {
+
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private int id;
+
+    @OneToMany(mappedBy = "persons",cascade = CascadeType.ALL)
+    private String persons;
+
+
+
 }
