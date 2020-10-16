@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="152a7328-988b-4782-b3d0-1ceabdd509e9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/api/api-db-e2e.api.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/api/api-db-e2e.api.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/api/api-db-e2e.api.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/api/api-db-e2e.api.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/main/java/com/api/db/e2e/exception/RestExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/main/java/com/api/db/e2e/model/ApiError.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/api/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/api/db/e2e/controller/ExpenseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/com/api/db/e2e/controller/ExpenseController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/api/db/e2e/controller/PersonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/com/api/db/e2e/controller/PersonController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/api/db/e2e/model/ResponseWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/com/api/db/e2e/model/ResponseWrapper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -312,10 +305,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="159" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1602742870479" />
-    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1602789751500">
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1602835626407">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602789751500" />
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602835626407" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1602679668044">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
