@@ -1,6 +1,7 @@
 apply plugin: 'java'
+apply plugin: 'idea'
 
-sourceCompatibility = 1.5
+sourceCompatibility = 1.8
 version = '1.0'
 
 repositories {
@@ -26,6 +27,3 @@ buildscript {
         classpath "org.springframework.boot:spring-boot-gradle-plugin:2.3.4.RELEASE"
     }
 }
-
-
-apply plugin: "org.springframework.boot"

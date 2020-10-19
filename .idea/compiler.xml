@@ -23,15 +23,15 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="api-db-e2e" target="1.5" />
+      <module name="api-db-e2e" target="1.8" />
       <module name="api-db-e2e.api" target="1.8" />
       <module name="api-db-e2e.api.main" target="1.8" />
       <module name="api-db-e2e.api.test" target="1.8" />
-      <module name="api-db-e2e.main" target="1.5" />
+      <module name="api-db-e2e.main" target="1.8" />
       <module name="api-db-e2e.qa" target="1.5" />
       <module name="api-db-e2e.qa.main" target="1.5" />
       <module name="api-db-e2e.qa.test" target="1.5" />
-      <module name="api-db-e2e.test" target="1.5" />
+      <module name="api-db-e2e.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

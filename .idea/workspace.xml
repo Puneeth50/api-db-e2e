@@ -3,11 +3,42 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="152a7328-988b-4782-b3d0-1ceabdd509e9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/api/src/main/java/com/api/db/e2e/exception/RestExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/src/main/java/com/api/db/e2e/model/ApiError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/api-db-e2e.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/api-db-e2e.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/api-db-e2e.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/api-db-e2e.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-db-e2e.iml" beforeDir="false" afterPath="$PROJECT_DIR$/api-db-e2e.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/api/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/build/classes/java/main/com/api/db/e2e/apiApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/api/build/classes/java/main/com/api/db/e2e/apiApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/build/libs/api-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/api/build/libs/api-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/build/tmp/bootJar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/api/build/tmp/bootJar/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/api/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/api/db/e2e/apiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/com/api/db/e2e/ApiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/api-db-e2e-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/bootJar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,12 +65,26 @@
         <task path="$PROJECT_DIR$/api">
           <activation />
         </task>
+        <task path="$PROJECT_DIR$/qa">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="api-db-e2e" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="api-db-e2e" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="api-db-e2e" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
               </path>
             </expand>
             <select />
@@ -58,6 +103,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../Program Files/apache-maven-3.2.5" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1irlyAySbMaNFUw0WgLoFBO2x88" />
   <component name="ProjectViewState">
@@ -153,7 +205,7 @@
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--stacktrace" />
+        <option name="scriptParameters" value="" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -162,12 +214,12 @@
             <option value="build" />
           </list>
         </option>
-        <option name="vmOptions" />
+        <option name="vmOptions" value="" />
       </ExternalSystemSettings>
       <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="api-db-e2e [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="api-db-e2e [classes]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -178,7 +230,7 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value="dependencies" />
+            <option value="classes" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -186,10 +238,10 @@
       <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="api-db-e2e:api [buildDependents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="api-db-e2e [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/api" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" />
         <option name="taskDescriptions">
@@ -197,7 +249,7 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value="buildDependents" />
+            <option value="clean" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -210,7 +262,7 @@
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/api" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--stacktrace" />
+        <option name="scriptParameters" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -268,13 +320,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Gradle.api-db-e2e [build]" />
+      <item itemvalue="Gradle.api-db-e2e [clean]" />
+      <item itemvalue="Gradle.api-db-e2e:api [build]" />
+      <item itemvalue="Gradle.api-db-e2e:api [clean]" />
+      <item itemvalue="Gradle.api-db-e2e [classes]" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.api-db-e2e [build]" />
-        <item itemvalue="Gradle.api-db-e2e:api [buildDependents]" />
+        <item itemvalue="Gradle.api-db-e2e [clean]" />
         <item itemvalue="Gradle.api-db-e2e:api [build]" />
         <item itemvalue="Gradle.api-db-e2e:api [clean]" />
-        <item itemvalue="Gradle.api-db-e2e [dependencies]" />
+        <item itemvalue="Gradle.api-db-e2e [classes]" />
       </list>
     </recent_temporary>
   </component>
@@ -292,6 +351,42 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
       <collection />
@@ -305,38 +400,58 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="159" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1602742870479" />
+    <state x="414" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602872746846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602872746846" />
     <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1602835626407">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602835626407" />
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1602679668044">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1603135520268">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602679668044" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603135520268" />
     <state x="951" y="141" key="FileChooserDialogImpl" timestamp="1602681184685">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="951" y="141" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602681184685" />
-    <state width="1876" height="282" key="GridCell.Tab.0.bottom" timestamp="1602704653944">
+    <state width="1876" height="360" key="GridCell.Tab.0.bottom" timestamp="1603135770501">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602704653944" />
-    <state width="1876" height="282" key="GridCell.Tab.0.center" timestamp="1602704653943">
+    <state width="1876" height="360" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603135770501" />
+    <state width="1876" height="360" key="GridCell.Tab.0.center" timestamp="1603135770500">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602704653943" />
-    <state width="1876" height="282" key="GridCell.Tab.0.left" timestamp="1602704653942">
+    <state width="1876" height="360" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603135770500" />
+    <state width="1876" height="360" key="GridCell.Tab.0.left" timestamp="1603135770500">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602704653942" />
-    <state width="1876" height="282" key="GridCell.Tab.0.right" timestamp="1602704653943">
+    <state width="1876" height="360" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603135770500" />
+    <state width="1876" height="360" key="GridCell.Tab.0.right" timestamp="1603135770501">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602704653943" />
-    <state x="672" y="45" key="SettingsEditor" timestamp="1602744493146">
+    <state width="1876" height="360" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603135770501" />
+    <state width="1876" height="332" key="GridCell.Tab.1.bottom" timestamp="1602872749624">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="672" y="45" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602744493146" />
+    <state width="1876" height="332" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602872749624" />
+    <state width="1876" height="332" key="GridCell.Tab.1.center" timestamp="1602872749623">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="332" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602872749623" />
+    <state width="1876" height="332" key="GridCell.Tab.1.left" timestamp="1602872749623">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="332" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602872749623" />
+    <state width="1876" height="332" key="GridCell.Tab.1.right" timestamp="1602872749623">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="332" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602872749623" />
+    <state x="672" y="45" key="SettingsEditor" timestamp="1602872808050">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="672" y="45" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602872808050" />
     <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1602768761361">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
