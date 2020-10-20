@@ -7,6 +7,8 @@ import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
 import java.io.Serializable;
+import java.util.ArrayList;
+import java.util.List;
 
 @Data
 @Entity
@@ -20,7 +22,7 @@ public class Persons implements Serializable {
     private int id;
 
     @OneToMany(mappedBy = "persons",cascade = CascadeType.ALL)
-    private String persons;
+    private List<Expenses> persons= new ArrayList<>();
 
 
 

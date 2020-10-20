@@ -32,7 +32,7 @@ public class ExpensesServiceImp extends ExpensesService {
         Expenses expenses = checkIfIdIsPresentAndReturnExpenses(id);
         expenses.setId(o.getId());
         expenses.setDescription(o.getDescription());
-        expenses.setPersonId(o.getPersonId());
+        //expenses.setPersonId(o.getPersonId());
         expenses.setPrice(o.getPrice());
         return expensesRepository.save(expenses);
     }
